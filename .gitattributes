@@ -1,0 +1,17 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.lock text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+.env.example text eol=lf
+.editorconfig text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.python-version text eol=lf
+*.pdf binary
+
+# Do not normalize the supplied assessment files.
+/tools.py -text
+/restaurants.json -text

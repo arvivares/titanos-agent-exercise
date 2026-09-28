@@ -1,0 +1,14 @@
+[
+  {"id": "r01", "name": "Trattoria Bellini", "cuisine": "italian", "area": "old town", "price": "€€", "rating": 4.4, "max_party": 3, "available_times": ["19:00", "19:30", "21:45"]},
+  {"id": "r02", "name": "Osteria del Porto", "cuisine": "italian", "area": "harbour", "price": "€€€", "rating": 4.7, "max_party": 4, "available_times": ["20:15", "22:00"]},
+  {"id": "r03", "name": "La Nonna", "cuisine": "italian", "area": "old town", "price": "€", "rating": 4.1, "max_party": 8, "available_times": []},
+  {"id": "r04", "name": "Sakura Room", "cuisine": "japanese", "area": "centre", "price": "€€€", "rating": 3.6, "max_party": 4, "available_times": ["18:45", "21:00"]},
+  {"id": "r05", "name": "Noodle Bar 22", "cuisine": "japanese", "area": "centre", "price": "€", "rating": 4.0, "max_party": 2, "available_times": ["19:15", "19:45", "20:30", "21:30"]},
+  {"id": "r06", "name": "Casa Marisol", "cuisine": "spanish", "area": "old town", "price": "€€", "rating": 4.5, "max_party": 10, "available_times": ["20:00", "22:15"]},
+  {"id": "r07", "name": "El Rincon", "cuisine": "spanish", "area": "harbour", "price": "€€", "rating": 4.2, "max_party": 6, "available_times": ["19:30"]},
+  {"id": "r08", "name": "Green Fig", "cuisine": "vegetarian", "area": "centre", "price": "€€", "rating": 4.3, "max_party": 6, "available_times": ["19:00", "20:45"]},
+  {"id": "r09", "name": "The Coal Yard", "cuisine": "grill", "area": "north", "price": "€€€", "rating": 2.8, "max_party": 8, "available_times": []},
+  {"id": "r10", "name": "Bombay Lane", "cuisine": "indian", "area": "north", "price": "€", "rating": 4.4, "max_party": 6, "available_times": ["18:30", "20:00", "21:15"]},
+  {"id": "r11", "name": "Le Petit Banc", "cuisine": "french", "area": "centre", "price": "€€€", "rating": 4.6, "max_party": 4, "available_times": ["19:45"]},
+  {"id": "r12", "name": "Mesa Nueve", "cuisine": "spanish", "area": "centre", "price": "€€", "rating": 3.0, "max_party": 12, "available_times": ["19:00", "19:30", "20:00", "21:00"]}
+]
